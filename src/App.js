@@ -6,6 +6,8 @@ import * as cocossd from "@tensorflow-models/coco-ssd";
 import Webcam from "react-webcam";
 // import Clock from "./Clock";
 import "./App.css";
+import Logo from './flex-svg.svg';
+
 // 2. TODO - Import drawing utility here
 // e.g. 
 // import { drawRect } from "./utilities";
